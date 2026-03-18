@@ -1,4 +1,4 @@
-# Nissan Spring Boot Starter Template
+# Kavya's Spring Boot Starter Template
 
 A production-ready skeleton for backend microservices using Spring Boot 3.4 and Java 21.
 
